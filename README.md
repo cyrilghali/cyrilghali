@@ -1,13 +1,12 @@
 # Hi there, I'm Cyril 👋
 
-Welcome to my GitHub profile! I'm a passionate software engineer who loves learning and sharing.
+🌊 **[swim.today](https://swim-today.fly.dev/)** — Can I swim today? Check real-time beach conditions instantly.
 
 ## About Me
 
+- 💼 Software Engineer at [Riot](https://tryriot.com), building cybersecurity awareness tools.
 - 🔬 Built a homelab, learning extensively about containerization, virtualization, networking, and security.
 - 🎗️ Created a [website](https://dcoroma.it) to help Coptic people in Italy find community-related information.
-- 📱 Not active on social media, as those platforms are designed to consume a lot of time.
-- 💼 Currently working at [Padoa](https://www.linkedin.com/company/padoa), a health tech company based in Paris.
 - 🎓 Graduated from [EPITA](https://fr.linkedin.com/school/epita-ecole-ingenieurs-informatique/) with a degree in Software Engineering.
 - 📫 How to reach me: [contact@cyrilghali.fr](mailto:contact@cyrilghali.fr)
 
