@@ -9,7 +9,6 @@
 - 💼 Software Engineer at [Riot](https://tryriot.com), building cybersecurity awareness tools.
 - 🔬 Built a homelab, learning extensively about containerization, virtualization, networking, and security.
 - 🎓 Graduated from [EPITA](https://fr.linkedin.com/school/epita-ecole-ingenieurs-informatique/) with a degree in Software Engineering.
-- 📫 How to reach me: [contact@cyrilghali.fr](mailto:contact@cyrilghali.fr)
 
 <sub>[lafavola.fr](https://lafavola.fr) · [dcoroma.it](https://dcoroma.it) · [agpia.fr](https://agpia.fr) · [katameros-cli](https://github.com/cyrilghali/katameros-cli)</sub>
 
