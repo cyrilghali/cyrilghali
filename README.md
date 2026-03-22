@@ -4,11 +4,12 @@
 
 🚇 **[metro-cli](https://github.com/cyrilghali/metro-cli)** — Paris metro departures and disruptions in your terminal.
 
+🍝 [lafavola.fr](https://lafavola.fr) · 🎗️ [dcoroma.it](https://dcoroma.it)
+
 ## About Me
 
 - 💼 Software Engineer at [Riot](https://tryriot.com), building cybersecurity awareness tools.
 - 🔬 Built a homelab, learning extensively about containerization, virtualization, networking, and security.
-- 🎗️ Created a [website](https://dcoroma.it) to help Coptic people in Italy find community-related information.
 - 🎓 Graduated from [EPITA](https://fr.linkedin.com/school/epita-ecole-ingenieurs-informatique/) with a degree in Software Engineering.
 - 📫 How to reach me: [contact@cyrilghali.fr](mailto:contact@cyrilghali.fr)
 
