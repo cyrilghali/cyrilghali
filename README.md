@@ -2,6 +2,8 @@
 
 🌊 **[swim.today](https://swim-today.fly.dev/)** — Can I swim today? Check real-time beach conditions instantly.
 
+🚇 **[metro-cli](https://github.com/cyrilghali/metro-cli)** — Paris metro departures and disruptions in your terminal.
+
 ## About Me
 
 - 💼 Software Engineer at [Riot](https://tryriot.com), building cybersecurity awareness tools.
