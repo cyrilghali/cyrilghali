@@ -4,7 +4,7 @@
 
 🚇 **[metro-cli](https://github.com/cyrilghali/metro-cli)** — Paris metro departures and disruptions in your terminal.
 
-🍝 [lafavola.fr](https://lafavola.fr) · 🎗️ [dcoroma.it](https://dcoroma.it)
+🍝 [lafavola.fr](https://lafavola.fr) · 🎗️ [dcoroma.it](https://dcoroma.it) · ✝️ [agpia.fr](https://agpia.fr) · 📖 [katameros-cli](https://github.com/cyrilghali/katameros-cli)
 
 ## About Me
 
